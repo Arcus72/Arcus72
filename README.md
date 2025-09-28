@@ -50,6 +50,7 @@ I am a computer science student passionate about Python and web design. I have e
 
 -  [IT-toolbox](https://it-toolbox.pl/) – A set of IT calculators and converters
 -  [School-map](https://github.com/Arcus72/School-map) – A 3D school representation with room-finding functionality
+-  [Forex-technical-analysis](https://github.com/Arcus72/Forex-technical-analysis) – Predict trends and identify candlestick patterns in forex data.
 
 ## Contact
 
