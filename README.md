@@ -44,13 +44,16 @@ I am a computer science student passionate about Python and web design. I have e
   <img src="https://img.shields.io/badge/Clickup-000000?logo=clickup&logoColor=white&style=for-the-badge" height="40" alt="clickup logo"  />
 </div>
 
-###
 
 ## Highlight Projects
-
--  [IT-toolbox](https://it-toolbox.pl/) – A set of IT calculators and converters
--  [School-map](https://github.com/Arcus72/School-map) – A 3D school representation with room-finding functionality
+1. ML
+-  [Image-Digit-Classification](https://github.com/Arcus72/Image-Digit-Classification) - A CNN-based handwritten digit recognizer featuring an interactive drawing interface.
 -  [Forex-technical-analysis](https://github.com/Arcus72/Forex-technical-analysis) – Predict trends and identify candlestick patterns in forex data.
+-  
+2. Front-end
+-  [IT-toolbox](https://github.com/Arcus72/IT-toolbox) – A set of IT calculators and converters ([Demo](https://it-toolbox.pl/))
+-  [School-map](https://github.com/Arcus72/School-map) – A 3D school representation with room-finding functionality ([Demo](https://tzn.edu.pl/spacer/))
+
 
 ## Contact
 
