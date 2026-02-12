@@ -53,15 +53,19 @@ I am a computer science student passionate about Python and web design. I have e
 
 
 ## Highlight Projects
-1. ML
--  [Image-Digit-Classification](https://github.com/Arcus72/Image-Digit-Classification) - A CNN-based handwritten digit recognizer featuring an interactive drawing interface.
--  [Housing-Assistant](https://github.com/Arcus72/Housing-Assistant) - multi-agent platform designed to assist users with real estate valuations and market analysis.
--  [Forex-technical-analysis](https://github.com/Arcus72/Forex-technical-analysis) – Predict trends and identify candlestick patterns in forex data.
 
-2. Front-end
--  [IT-toolbox](https://github.com/Arcus72/IT-toolbox) – A set of IT calculators and converters ([Demo](https://it-toolbox.pl/))
--  [School-map](https://github.com/Arcus72/School-map) – A 3D school representation with room-finding functionality ([Demo](https://tzn.edu.pl/spacer/))
+1. Machine learning:
+- [Image-Digit-Classification](https://github.com/Arcus72/Image-Digit-Classification) - A CNN-based handwritten digit recognizer featuring an interactive drawing interface.
+- [Housing-Assistant](https://github.com/Arcus72/Housing-Assistant) - multi-agent platform designed to assist users with real estate valuations and market analysis.
+- [Intention-recognizer](https://github.com/Arcus72/Intention-recognizer) – An application that uses computer vision and machine learning to detect and classify human intent.
 
+2. Front-end:
+- [IT-toolbox](https://github.com/Arcus72/IT-toolbox) – A set of IT calculators and converters. ([Demo](https://it-toolbox.pl/))
+- [School-map](https://github.com/Arcus72/School-map) – A 3D school representation with room-finding functionality. ([Demo](https://tzn.edu.pl/spacer/))
+- [Worth-reading](https://github.com/Arcus72/Worth-reading) - A website with book reviews and author overviews. ([Demo](https://worth-reading-eta.vercel.app/))
+
+3. Other Projects:
+- [world-game](https://github.com/Arcus72/world-game) - A country guessing game written in C#. The goal is to guess the randomly selected country based on hints.
 
 ## Contact
 
