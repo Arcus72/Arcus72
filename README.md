@@ -55,7 +55,7 @@ I am a computer science student passionate about Python and web design. I have e
 ## Highlight Projects
 
 1. Machine learning:
-- [Image-Digit-Classification](https://github.com/Arcus72/Image-Digit-Classification) - A CNN-based handwritten digit recognizer featuring an interactive drawing interface.
+- [Image-Digit-Classification](https://github.com/Arcus72/Image-Digit-Classification) - A CNN-based handwritten digit recognizer featuring an interactive drawing interface. ([Demo](https://huggingface.co/spaces/Arcus72/Image-Digit-Classification))
 - [Housing-Assistant](https://github.com/Arcus72/Housing-Assistant) - multi-agent platform designed to assist users with real estate valuations and market analysis.
 - [Intention-recognizer](https://github.com/Arcus72/Intention-recognizer) – An application that uses computer vision and machine learning to detect and classify human intent.
 
@@ -65,7 +65,7 @@ I am a computer science student passionate about Python and web design. I have e
 - [Worth-reading](https://github.com/Arcus72/Worth-reading) - A website with book reviews and author overviews. ([Demo](https://worth-reading-eta.vercel.app/))
 
 3. Other Projects:
-- [world-game](https://github.com/Arcus72/world-game) - A country guessing game written in C#. The goal is to guess the randomly selected country based on hints.
+- [World-game](https://github.com/Arcus72/world-game) - A country guessing game written in C#. The goal is to guess the randomly selected country based on hints.
 
 ## Contact
 
