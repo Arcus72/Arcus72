@@ -64,7 +64,10 @@ I am a computer science student passionate about Python and web design. I have e
 - [School-map](https://github.com/Arcus72/School-map) – A 3D school representation with room-finding functionality. ([Demo](https://tzn.edu.pl/spacer/))
 - [Worth-reading](https://github.com/Arcus72/Worth-reading) - A website with book reviews and author overviews. ([Demo](https://worth-reading-eta.vercel.app/))
 
-3. Other Projects:
+3. Data analysis
+- [Analiza-Google-Play](https://github.com/Arcus72/Analiza-Google-Play) - Ogólna analiza aplikacji na platformie Google Play.
+
+4. Other Projects:
 - [World-game](https://github.com/Arcus72/world-game) - A country guessing game written in C#. The goal is to guess the randomly selected country based on hints.
 
 ## Contact
