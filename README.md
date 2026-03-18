@@ -65,6 +65,7 @@ I am a computer science student passionate about Python and web design. I have e
 - [Worth-reading](https://github.com/Arcus72/Worth-reading) - A website with book reviews and author overviews. ([Demo](https://worth-reading-eta.vercel.app/))
 
 3. Data analysis
+- [Film dataset analysis](https://github.com/Arcus72/Film-dataset-analysis) - Comprehensive Movie Dataset Analysis (700k+ records)
 - [Analiza-Google-Play](https://github.com/Arcus72/Analiza-Google-Play) - Ogólna analiza aplikacji na platformie Google Play.
 
 4. Other Projects:
