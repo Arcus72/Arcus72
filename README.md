@@ -66,7 +66,7 @@ I am a computer science student passionate about Python and web design. I have e
 
 3. Data analysis
 - [Film dataset analysis](https://github.com/Arcus72/Film-dataset-analysis) - Comprehensive Movie Dataset Analysis (700k+ records)
-- [Analiza-Google-Play](https://github.com/Arcus72/Analiza-Google-Play) - Ogólna analiza aplikacji na platformie Google Play.
+- [Analiza-Google-Play](https://github.com/Arcus72/Analiza-Google-Play) - General analysis of applications on the Google Play platform (In Polish).
 
 4. Other Projects:
 - [World-game](https://github.com/Arcus72/world-game) - A country guessing game written in C#. The goal is to guess the randomly selected country based on hints.
