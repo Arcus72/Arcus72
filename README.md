@@ -1,7 +1,7 @@
 # Hi, I'm Maciej 👋
 
 I am a computer science student passionate about Python and web design. I have experience in web development, and I am currently expanding my skills in data engineering and artificial intelligence.
-
+[Portfolio](https://maciejkimla.netlify.app/)
 ## Skills
 
 ### I code with:
