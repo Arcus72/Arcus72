@@ -25,6 +25,15 @@ I am a computer science student passionate about Python and web design. I have e
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
 ### I use:
@@ -48,7 +57,14 @@ I am a computer science student passionate about Python and web design. I have e
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="12" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+
+
+
+
 </div>
 
 
@@ -60,7 +76,7 @@ I am a computer science student passionate about Python and web design. I have e
 - [Intention-recognizer](https://github.com/Arcus72/Intention-recognizer) – An application that uses computer vision and machine learning to detect and classify human intent.
 
 2. Data Engineer
-- [Offers-radar](https://github.com/Arcus72/Offers_radar) - A pipeline that scrapes apartment listings, structures them with a local LLM and estimates each listing’s fair market price with ML.
+- [Offers-radar](https://github.com/Arcus72/Offers_radar) - A pipeline that scrapes apartment listings, structures them with a local LLM, and estimates each listing’s fair market price using ML, paired with an AI chatbot for querying the database and recommending apartments.
 
 3. Data analysis
 - [Film dataset analysis](https://github.com/Arcus72/Film-dataset-analysis) - Comprehensive Movie Dataset Analysis (700k+ records)
