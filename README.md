@@ -69,7 +69,7 @@ I am a computer science student passionate about Python and web design. I have e
 ## Highlight Projects
 
 1. Machine learning:
-- [Image-Digit-Classification](https://github.com/Arcus72/Image-Digit-Classification) - A CNN-based handwritten digit recognizer featuring an interactive drawing interface. ([Demo](https://huggingface.co/spaces/Arcus72/Image-Digit-Classification))
+- [Image-Digit-Classification](https://github.com/Arcus72/Image-Digit-Classification) - A CNN-based handwritten digit recognizer featuring an interactive drawing interface. Model training is done on an Azure ML [Demo](https://huggingface.co/spaces/Arcus72/Image-Digit-Classification))
 - [Housing-Assistant](https://github.com/Arcus72/Housing-Assistant) - multi-agent platform designed to assist users with real estate valuations and market analysis.
 - [Intention-recognizer](https://github.com/Arcus72/Intention-recognizer) – An application that uses computer vision and machine learning to detect and classify human intent.
 
